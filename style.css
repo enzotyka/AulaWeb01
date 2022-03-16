@@ -1,0 +1,13 @@
+
+    body{
+        background-color: rgb(193, 128, 231);
+        margin: 12px;
+       } 
+       p{
+           width: 700px;
+           background-color: rgb(144, 112, 180);
+       }
+       ol{
+           width:500px;
+           background-color: rgb(151, 52, 151);
+       }
